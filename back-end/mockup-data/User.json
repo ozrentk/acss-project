@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "admin",
+        "email": "admin@email.com",
+        "password": "123qweasd"
+    },
+    {
+        "id": 2,
+        "name": "test3",
+        "email": "test3@email.com",
+        "password": "test3"
+    },
+    {
+        "id": 3,
+        "name": "test5",
+        "email": "test5@email.com",
+        "password": "test5"
+    },
+    {
+        "id": 4,
+        "name": "test.007",
+        "email": "test.007",
+        "password": "test.007"
+    },
+    {
+        "id": 5,
+        "name": "test.007",
+        "email": "test.007",
+        "password": "test.007"
+    },
+    {
+        "id": 6,
+        "name": "test.008",
+        "email": "test.008",
+        "password": "test.007"
+    },
+    {
+        "id": 7,
+        "name": "test.009",
+        "email": "test.009",
+        "password": "test.009"
+    },
+    {
+        "id": 8,
+        "name": "test.010",
+        "email": "test.010",
+        "password": "test.010"
+    },
+    {
+        "id": 9,
+        "name": "test.010",
+        "email": "test.010",
+        "password": "test.010"
+    },
+    {
+        "id": 10,
+        "name": "admin2@email.com",
+        "email": "admin2",
+        "password": "admin2"
+    },
+    {
+        "id": 11,
+        "name": "admin2",
+        "email": "admin2@email.com",
+        "password": "admin2"
+    },
+    {
+        "id": 12,
+        "name": "admin3",
+        "email": "admin3@email.com",
+        "password": "admin2"
+    }
+]
